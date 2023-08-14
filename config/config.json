@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "QAZWERtgb127",
+    "database": "Fin-Fix DB",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "QAZWERtgb127",
+    "database": "Fin-Fix DB",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "QAZWERtgb127",
+    "database": "Fin-Fix DB",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
